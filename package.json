@@ -1,0 +1,19 @@
+{
+  "name": "restful-crud-mongo",
+  "version": "1.0.0",
+  "description": "A Node App with a RESTFul API and MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Johann Yaqueno",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.13"
+  }
+}
